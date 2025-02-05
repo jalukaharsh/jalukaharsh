@@ -2,7 +2,7 @@
 
 ![View Counter](https://komarev.com/ghpvc/?username=jalukaharsh)
 
-Welcome to my GitHub! I'm a graduate from the University of Toronto, with a triple major in Computer Science, Physics and Mathematics. 
+Welcome to my GitHub! I'm a graduate from the University of Toronto, with a triple major in Computer Science, Physics and Mathematics. I work as a Software Development Engineer at Amazon (AWS Serverless Messaging). 
 
 Feel free to browse my projects and reach out if you are interested in reviving any incomplete ones. 
 
